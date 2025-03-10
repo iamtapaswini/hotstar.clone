@@ -1,2 +1,2 @@
 # hotstar.clone
-Hotstar xlone using HTML,CSS,JAVASCRIPT
+Hotstar clone using HTML,CSS,JAVASCRIPT
